@@ -1,0 +1,13 @@
+jquery.min.js
+swiper.min.js
+text-editor.bundle.min.js
+counter.bundle.min.js
+image-carousel.bundle.min.js
+lite-yt-embed.js
+bootstrap.bundle.min.js
+rank-math.js
+google-recaptcha.js
+prime-slider-site.min.js
+essential-blocks-blocks-localize.js
+elementor-frontend.min.js
+wpforms-modern.min.js
